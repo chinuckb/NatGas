@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
-from config import PARENT_DIRECTORY
+from utils import PARENT_DIRECTORY
 
 # Set the working directory
 os.chdir(PARENT_DIRECTORY)
